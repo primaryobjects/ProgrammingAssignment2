@@ -69,6 +69,6 @@ cacheSolve <- function(x, ...) {
 	    print("Using cache.")
 	}
 	
-	# Return the inverted matrix from cache.
+	# Return the inverted matrix.
 	invert
 }
