@@ -1,4 +1,6 @@
 ## Caching the Inverse of a Matrix.
+## Demo running this code: http://www.r-fiddle.org/#/fiddle?id=Sx3UyoLX
+##
 ## The following set of functions allow you to invert a matrix, using cache.
 ## The function, makeCacheMatrix, creates a customized "matrix" object that caches its inverse.
 ## The function, cacheSolve, takes an object from makeCacheMatrix and returns the inverse of its matrix.
